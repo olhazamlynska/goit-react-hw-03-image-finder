@@ -1,4 +1,4 @@
-import * as API from 'components/services/pixabayAPI';
+import * as API from 'services/pixabayAPI';
 import toast, { Toaster } from 'react-hot-toast';
 
 import { Component } from 'react';
